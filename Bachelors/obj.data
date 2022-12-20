@@ -1,0 +1,5 @@
+classes = 12
+train = /content/train.txt
+valid = /content/valid.txt
+names = /content/obj.names
+backup = /content/

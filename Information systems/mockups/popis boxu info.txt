@@ -1,0 +1,9 @@
+HRÁČ:
+	nick, email, věk, tým
+TURNAJ:
+	# vs #, vstupné, výhra, pravidla
+TÝM:
+	název, zkratka, ?zakladatel?, členové
+ÚVODKA:
+	informace o naší společnosti
+
