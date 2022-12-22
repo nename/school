@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+
+require 'scraper'
+
+app = Scraper.new
+app.run(ARGV)

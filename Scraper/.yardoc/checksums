@@ -1,0 +1,11 @@
+lib/scraper.rb ec30fee74087d3a0630c2ee162c06a8bb966e8f0
+lib/scraper/team.rb dcddf269adb9c0c7d4e220d60e01292136884ad5
+lib/scraper/match.rb 03df756b4dcede3241982f41013c4e294f33a88e
+lib/scraper/month.rb 8c36864e5b5dc9ecad30f63231bf4fde106c08c1
+lib/scraper/parse.rb a9c453b1709da567f186f008df61bca9196f3fbd
+lib/scraper/player.rb c1e1d17810f167415daa7592591555b0fb37bef7
+lib/scraper/request.rb 8bbb02940e95075b08b1ed4e792db425be8e0416
+lib/scraper/results.rb 30bf3c7e824bbb2ab0d07a258421c93dd323ee07
+lib/scraper/top_teams.rb 403962eaed481b231418b5a8f500ee02eb382c8d
+lib/scraper/top_players.rb ebe529aba9bbcf060bdfbc83089a0a9e976e46b9
+lib/scraper/upcoming_matches.rb 76b12e6c177cccbdd47bb9cec4cbabd1f189300e
