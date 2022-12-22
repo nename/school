@@ -1,6 +1,5 @@
 # Lokalizace šachových figurek na hrací desce z fotografie
-**autor :** Tomáš Hampl (xhampl10)
-**email :** xhampl10@stud.fit.vutbr.cz
+**autor :** Tomáš Hampl
 **datum :** 11.05.2021
 
 # Úvod
